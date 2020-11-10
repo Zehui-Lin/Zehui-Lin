@@ -1,4 +1,4 @@
-### Hi I'm Zehui! 👋
+### Hi, I'm Zehui! 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zehui-Lin)](https://github.com/anuraghazra/github-readme-stats)
 
